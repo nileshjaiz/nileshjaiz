@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm ... from ....India<br><br>- 🔭 I’m working as ... Full-Stack Developer<br>- 📚 I'm currently learning ... ReactJs, NodeJs, Redux, ExpressJs, MongoDb, Bootstrap, C++<br>- ⚡ In my free time I go for a waolk in nature.</p>
+<p align="left">I'm ... from ....India<br><br>- 🔭 I’m working as ... Full-Stack Developer<br>- 📚 I'm currently learning ... ReactJs, NodeJs, Redux, ExpressJs, MongoDb, Bootstrap, C++<br>- ⚡ In my free time I go for a walk in nature.</p>
 
 ###
 
