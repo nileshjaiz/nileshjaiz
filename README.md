@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey guys , I am Nilesh Jaiswal, welcome to my Profile.👋</h1>
+<h1 align="center">Hey guys , I am Nilesh Jaiswal, welcome to my Profile.👋</h1>
 
 ###
 
